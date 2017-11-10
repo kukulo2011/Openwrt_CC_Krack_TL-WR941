@@ -1,6 +1,6 @@
 # Openwrt_CC_Krack_TL-WR941
 
-Firmwares for TL-WR941 routers containing Openvpn polarssl package and Krack wifi update runnung Chaos Calmer 15.05.1
+Firmwares for TL-WR941 routers containing Openvpn polarssl package and Krack wifi update running Chaos Calmer 15.05.1
 
 
 Build script and config included in the repository.
